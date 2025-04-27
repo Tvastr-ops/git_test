@@ -1,3 +1,3 @@
 # git_test
 testing for the odin project
-"Hello Odin!" - redpanda
+"Hello Odin!" - Redpanda
